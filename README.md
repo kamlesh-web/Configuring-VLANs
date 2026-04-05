@@ -1,4 +1,8 @@
-    # Configuring-VLANs
+## VLAN Overview
+<img width="1366" height="768" alt="configuring VLANs Overview" src="https://github.com/user-attachments/assets/923c662f-3886-4dca-a96f-daa6cd64a9af" />
+
+---
+## Configuring-VLANs
     Switch>
     Switch>
     Switch>enable
@@ -107,3 +111,9 @@
     1005 trnet-default                    active    
     Switch1(config-if)#
     Switch1(config-if)#
+---
+
+## Ping Test
+<img width="1366" height="768" alt="configuring ROAS 3" src="https://github.com/user-attachments/assets/f5578b6c-f802-4a4c-b05c-a662f9e4a667" />
+
+<img width="1366" height="768" alt="configuring VLANs 1" src="https://github.com/user-attachments/assets/3ad9f417-5d87-4f5e-b80d-2ac2fdb5e4a0" />
