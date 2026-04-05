@@ -1,5 +1,5 @@
 ## VLAN Overview
-<img width="899" height="768" alt="image" src="https://github.com/user-attachments/assets/567d4c50-9f76-4680-8db7-4fe6b356c713" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f27154ab-6e79-4b95-9d12-e913675b9000" />
 
 ---
 ## Configuring-VLANs
